@@ -296,10 +296,7 @@ const Index = () => {
             <div>
               <h3 className="font-semibold text-lg mb-4">Контакты</h3>
               <div className="space-y-2 text-primary-foreground/80">
-                <p className="flex items-center gap-2">
-                  <Icon name="Phone" size={18} />
-                  +7 (999) 123-45-67
-                </p>
+                <p className="flex items-center gap-2">+7 (930) 364-14-40</p>
                 <p className="flex items-center gap-2">
                   <Icon name="Mail" size={18} />
                   info@elk-house.ru
