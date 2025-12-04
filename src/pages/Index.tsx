@@ -93,7 +93,7 @@ const Index = () => {
   return (
     <div className="min-h-screen">
       <header className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm z-50 border-b border-border">
-        <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
+        <nav className="container mx-auto px-4 py-4 flex items-center justify-between bg-stone-400">
           <div className="flex items-center gap-2">
             <Icon name="Home" size={24} className="text-primary" />
             <span className="text-2xl font-bold text-primary">ELK-HOUSE</span>
